@@ -12,4 +12,4 @@ O administrador é capaz de executar todas as funções, desde criar alunos e pr
 
 O professor apenas se canditata a dar matérias e entrega notas ao aluno.
 
-O alunos apenas se inscreve em matérias e vê o atestado de matrícula e histórico.
+O aluno apenas se inscreve em matérias e vê o atestado de matrícula e histórico.
