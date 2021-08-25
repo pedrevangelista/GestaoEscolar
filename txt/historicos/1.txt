@@ -1,0 +1,9 @@
+1
+ID: CSI-030 Nota: 7.0 Faltas: 7 Professor: Matheus Status: Aprovado
+ID: GEO Nota: 7.0 Faltas: 7 Professor: Alana Status: Aprovado
+ID: CEA-100 Nota: 8.0 Faltas: 8 Professor: Alana Status: Aprovado
+ID: CEA-001 Nota: 9.0 Faltas: 5 Professor: Alana Status: Aprovado
+2
+ID: GEO2 Nota: 9.0 Faltas: 2 Professor: Matheus Status: Aprovado
+ID: CEA1 Nota: 10.0 Faltas: 0 Professor: Matheus Status: Aprovado
+ID: CEA-130 Nota: 9.0 Faltas: 17 Professor: Matheus Status: Aprovado

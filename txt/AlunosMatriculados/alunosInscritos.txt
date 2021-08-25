@@ -1,0 +1,13 @@
+Matricula: 1 ID: CEA-001 Semestre: 1 Professor: Alana
+Matricula: 5 ID: CEA-001 Semestre: 1 Professor: Alana
+Matricula: 3 ID: CEA-001 Semestre: 1 Professor: Alana
+Matricula: 7 ID: CEA-001 Semestre: 1 Professor: Alana
+Matricula: 6 ID: CEA-001 Semestre: 1 Professor: Alana
+Matricula: 1 ID: CEA-100 Semestre: 1 Professor: Alana
+Matricula: 1 ID: GEO Semestre: 1 Professor: Alana
+Matricula: 3 ID: GEO Semestre: 1 Professor: Alana
+Matricula: 7 ID: GEO Semestre: 1 Professor: Alana
+Matricula: 1 ID: GEO2 Semestre: 2 Professor: Matheus
+Matricula: 1 ID: CEA1 Semestre: 2 Professor: Matheus
+Matricula: 1 ID: CEA-130 Semestre: 2 Professor: Matheus
+Matricula: 1 ID: CSI-030 Semestre: 1 Professor: Matheus

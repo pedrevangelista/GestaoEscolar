@@ -1,0 +1,16 @@
+﻿Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: Joao Matricula: 2 Curso: Sistema da Informação CPF: 15090938695 Idade: 27
+Nome: Robscliedo Matricula: 3 Curso: Sistema da Informação CPF: 15090938695 Idade: 22
+Nome: Rubertin Matricula: 4 Curso: Sistema da Informação CPF: 15090938695 Idade: 35
+Nome: Kleison Matricula: 5 Curso: Sistema da Informação CPF: 15090938695 Idade: 29
+Nome: Lipin Matricula: 6 Curso: Sistema da Informação CPF: 15090938695 Idade: 21
+Nome: Jiltin Matricula: 7 Curso: Engenharia de Computação CPF: 15090938695 Idade: 20
+Nome: Britol Matricula: 8 Curso: Engenharia de Computação CPF: 15090938695 Idade: 19
+Nome: Jurandir Matricula: 9 Curso: Engenharia Eletrica CPF: 15090938695 Idade: 19
+Nome: Narlon Matricula: 10 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: Falitlle Matricula: 11 Curso: Sistema da Informação CPF: 15090938695 Idade: 20
+Nome: Jordinei Matricula: 12 Curso: Engenharia Eletrica CPF: 15090938695 Idade: 27
+Nome: Eleo Matricula: 13 Curso: Engenharia Eletrica CPF: 15090938695 Idade: 23
+Nome: Kiro Matricula: 14 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: Gil Matricula: 15 Curso: Engenharia Eletrica CPF: 15090938695 Idade: 17
+Nome: Kana Matricula: 16 Curso: Engenharia de Produção CPF: 15090938695 Idade: 18

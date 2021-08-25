@@ -1,0 +1,28 @@
+Nome: Calculo 1 ID: CEA-001 Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Alana
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+	Nome: Kleison Matricula: 5 Curso: Sistema da Informação CPF: 15090938695 Idade: 29
+	Nome: Robscliedo Matricula: 3 Curso: Sistema da Informação CPF: 15090938695 Idade: 22
+	Nome: Jiltin Matricula: 7 Curso: Engenharia de Computação CPF: 15090938695 Idade: 20
+	Nome: Lipin Matricula: 6 Curso: Sistema da Informação CPF: 15090938695 Idade: 21
+Nome: Calculo 1 ID: CEA-001 Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Firuto
+Nome: GAAL ID: CEA-100 Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Alana
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: GEO ID: GEO Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Alana
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+	Nome: Robscliedo Matricula: 3 Curso: Sistema da Informação CPF: 15090938695 Idade: 22
+	Nome: Jiltin Matricula: 7 Curso: Engenharia de Computação CPF: 15090938695 Idade: 20
+Nome: GEO2 ID: GEO2 Pre requisito: GEO Curso: Engenharia de Computação Semestre: 2 Professor: Matheus
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: GAAL2 ID: CEA1 Pre requisito: CEA-100 Curso: Engenharia de Computação Semestre: 2 Professor: Matheus
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: Fisica2 ID: CEA-130 Pre requisito: CEA-100 Curso: Engenharia de Computação Semestre: 2 Professor: Matheus
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: Programação 1 ID: CSI-030 Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Matheus
+	Nome: Pedro Lucas Matricula: 1 Curso: Engenharia de Computação CPF: 15090938695 Idade: 18
+Nome: Metodologia ID: CESI-001 Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Alana
+Nome: Fisica3 ID: CEA-131 Pre requisito: CEA-130 Curso: Engenharia de Computação Semestre: 1 Professor: Gilbert
+Nome: Fisica3 ID: CEA-131 Pre requisito: CEA-130 Curso: Engenharia de Computação Semestre: 1 Professor: Firuto
+Nome: Fisica2 ID: CEA-130 Pre requisito: CEA-100  Curso: Engenharia de Computação Semestre: 2 Professor: Clodoaldo
+Nome: GEO ID: GEO Pre requisito:   Curso: null Semestre: 1 Professor: Clodoaldo
+Nome: GAAL ID: CEA-100 Pre requisito:  Curso: Engenharia de Computação Semestre: 1 Professor: Joberval
+Nome: GAAL2 ID: CEA1 Pre requisito: CEA-100  Curso: Engenharia de Computação Semestre: 1 Professor: Joberval

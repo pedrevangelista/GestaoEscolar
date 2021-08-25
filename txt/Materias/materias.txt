@@ -1,0 +1,10 @@
+﻿Nome: Calculo 1 ID: CEA-001 Pre requisito:  
+Nome: Metodologia ID: CESI-001 Pre requisito:  
+Nome: GAAL ID: CEA-100 Pre requisito: 
+Nome: Programação 1 ID: CSI-030 Pre requisito:  
+Nome: Fisica2 ID: CEA-130 Pre requisito: CEA-100 
+Nome: Fisica3 ID: CEA-131 Pre requisito: CEA-130 
+Nome: GAAL2 ID: CEA1 Pre requisito: CEA-100 
+Nome: GEO ID: GEO Pre requisito:  
+Nome: GEO2 ID: GEO2 Pre requisito: GEO 
+Nome: GEO3 ID: GEO3 Pre requisito: GEO2

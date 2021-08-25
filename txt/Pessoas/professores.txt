@@ -1,0 +1,9 @@
+Nome: Alana Matricula: 1 CPF: 15090938695 Idade: 2019
+Nome: Matheus Matricula: 2 CPF: 15090938695 Idade: 2019
+Nome: Anlyi Matricula: 3 CPF: 15090938695 Idade: 2019
+Nome: Joberval Matricula: 4 CPF: 15090938695 Idade: 2019
+Nome: Clodoaldo Matricula: 5 CPF: 15090938695 Idade: 2019
+Nome: Gilbert Matricula: 6 CPF: 15090938695 Idade: 2019
+Nome: Holinelvison Matricula: 7 CPF: 15090938695 Idade: 2019
+Nome: Rudinei Matricula: 8 CPF: 15062194628 Idade: 19
+Nome: Firuto Matricula: 9 CPF: 15090938695 Idade: 2018
